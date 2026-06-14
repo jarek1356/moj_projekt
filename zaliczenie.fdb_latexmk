@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1781425981.74983 "c:/moj_projekt/zaliczenie.tex" "zaliczenie.pdf" "zaliczenie" 1781425982.61379 0
+["pdflatex"] 1781426616.50355 "c:/moj_projekt/zaliczenie.tex" "zaliczenie.pdf" "zaliczenie" 1781426617.38273 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993061956 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm0500.tfm" 993062114 3160 7643a152c0e9200a0a8161b2bb3a452d ""
@@ -79,13 +79,13 @@
   "C:/Users/Jarek/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk" 1781387541 23808 75aac4a510ac94789530730f95719c0b ""
   "C:/Users/Jarek/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt0900.pk" 1781392027 17512 f847cf55f78adee909a350143e0e2b79 ""
   "C:/Users/Jarek/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1781387332 13323461 4dac22994724b47dccb6464ec2966ff0 ""
-  "c:/moj_projekt/zaliczenie.tex" 1781425980 3803 97cf2d6919cb20cd00190d93adc03bb4 ""
+  "c:/moj_projekt/zaliczenie.tex" 1781426614 3803 97cf2d6919cb20cd00190d93adc03bb4 ""
   "image/1.png" 1781424192 23731 1241060e411adf73ad8cb7f0088c808c ""
   "image/2.png" 1781424608 103075 1070e19fe641995d09033aa650ed92fb ""
   "image/ModLogoPO.jpg" 1778926709 11071 45ba84d3c2c23a886c9f45901b681ced ""
   "image/ModLogoWE.jpg" 1778926709 6706 65f9f53e22e27048c8de005fa9e62192 ""
-  "zaliczenie.aux" 1781425982 557 41305b1f27846d624b4585f10bf2948e "pdflatex"
-  "zaliczenie.tex" 1781425980 3803 97cf2d6919cb20cd00190d93adc03bb4 ""
+  "zaliczenie.aux" 1781426617 557 41305b1f27846d624b4585f10bf2948e "pdflatex"
+  "zaliczenie.tex" 1781426614 3803 97cf2d6919cb20cd00190d93adc03bb4 ""
   (generated)
   "zaliczenie.aux"
   "zaliczenie.log"

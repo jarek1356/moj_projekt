@@ -1,2 +1,2 @@
-def dodaj(a, b):
+def dodaj(a, b) -> int:
     return a + b
