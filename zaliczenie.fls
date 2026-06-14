@@ -167,7 +167,20 @@ INPUT .\image\1.png
 INPUT .\image\1.png
 INPUT .\image\1.png
 INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\image\2.png
+INPUT .\image\2.png
+INPUT .\image\2.png
+INPUT .\image\2.png
+INPUT .\image\2.png
+INPUT .\image\2.png
+INPUT .\image\2.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt0900.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm0500.tfm
 INPUT zaliczenie.aux
+INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk
+INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk
+INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0500.pk
+INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0500.pk
 INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Users\Jarek\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.13)  14 JUN 2026 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.13)  14 JUN 2026 10:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -377,24 +377,30 @@ Package pdftex.def Info: image/1.png  used on input line 83.
 (pdftex.def)             Requested size: 386.95894pt x 130.0999pt.
 [1{C:/Users/Jarek/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
- <./image/ModLogoPO.jpg> <./image/ModLogoWE.jpg> <./image/1.png (PNG copy)>] (zaliczenie.aux)
+ <./image/ModLogoPO.jpg> <./image/ModLogoWE.jpg> <./image/1.png (PNG copy)>]
+<image/2.png, id=11, 1311.90125pt x 852.18375pt>
+File: image/2.png Graphic file (type png)
+<use image/2.png>
+Package pdftex.def Info: image/2.png  used on input line 89.
+(pdftex.def)             Requested size: 386.95894pt x 251.35301pt.
+ [2 <./image/2.png (PNG copy)>] (zaliczenie.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6811 strings out of 467870
- 110607 string characters out of 5428422
- 625591 words of memory out of 5000000
- 35578 multiletter control sequences out of 15000+600000
- 635241 words of font info for 55 fonts, out of 8000000 for 9000
+ 7083 strings out of 467870
+ 112779 string characters out of 5428422
+ 675591 words of memory out of 5000000
+ 35848 multiletter control sequences out of 15000+600000
+ 636320 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,20n,77p,341b,417s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>
-Output written on zaliczenie.pdf (1 page, 67775 bytes).
+ 73i,20n,77p,341b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Jarek\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>
+Output written on zaliczenie.pdf (2 pages, 189494 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
