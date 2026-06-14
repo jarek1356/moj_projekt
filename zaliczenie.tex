@@ -114,7 +114,29 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 	\end{lstlisting}
 		
+        \section{Zadanie 5}
+    	\begin{lstlisting}
+PS C:\moj_projekt> git add .
+PS C:\moj_projekt> git commit -m "ADD kalkulator.pyt"
+PS C:\moj_projekt> git add .                         
+PS C:\moj_projekt> git commit -m "ADD utils.py" 
+PS C:\moj_projekt> git tag -a v1.0 -m "v1.0" 
+PS C:\moj_projekt> git push -u origin main 
+PS C:\moj_projekt> git push origin v1.0
 
+	\end{lstlisting}
+
+            \section{Zadanie 6}
+    	\begin{lstlisting}
+PS C:\moj_projekt> git co -b feature-JAROSLAW
+Switched to a new branch 'feature-JAROSLAW'
+PS C:\moj_projekt> git add .
+PS C:\moj_projekt> git commit -m "EDIT kalkulator.py ADD function odejmij"
+PS C:\moj_projekt> git -C c:\moj_projekt checkout main
+PS C:\moj_projekt> git add .
+PS C:\moj_projekt> git commit -m "EDIT kalkulator.py"  
+
+	\end{lstlisting}
 	
 	
 \end{document}	
